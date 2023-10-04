@@ -6,7 +6,7 @@ import bgImg from "../assets/donation.jpg";
 const Home = () => {
     const [donations, setDonations] = useState([]);
     useEffect(() => {
-        fetch('donate.json')
+        fetch('https://raw.githubusercontent.com/Mahfuz2411/jsonplaceholder/main/donate.json')
         .then(res => res.json())
         .then(data => setDonations(data))
     },[]);
