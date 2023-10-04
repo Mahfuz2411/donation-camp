@@ -7,6 +7,7 @@ import Error from './Components/Error.jsx'
 import Home from './Layouts/Home.jsx';
 import Donation from './Layouts/Donation.jsx';
 import Statistics from './Layouts/Statistics.jsx';
+import Details from './Layouts/Details.jsx'
 
 import {
   createBrowserRouter,
@@ -30,6 +31,10 @@ const router = createBrowserRouter([
       {
         path: "/statistics",
         element: <Statistics></Statistics>
+      },
+      {
+        path: "/donation/:id",
+        element: <Details></Details>
       },
     ]
   },
