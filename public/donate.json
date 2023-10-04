@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "category": "Health",
+        "title": "Donate for Mental Health",
+        "description": "Support mental health initiatives by making a donation today. Your contribution will help raise awareness and provide vital resources for individuals facing mental health challenges.",
+        "thumbnail": "https://i.ibb.co/qp4BdwV/health.jpg",
+        "price": 25,
+        "bgColor": "#0052ff26",
+        "cateBgColor": "#0052ff33",
+        "textColor": "#0052FF"
+    },
+    {
+        "id": 2,
+        "category": "Health",
+        "title": "Healthcare for Children",
+        "description": "Give the gift of health to children in need by making a donation. Your support will ensure that underserved children have access to essential medical care, vaccinations, and nutritional support.",
+        "thumbnail": "https://i.ibb.co/qp4BdwV/health.jpg",
+        "price": 50,
+        "bgColor": "#0052ff26",
+        "cateBgColor": "#0052ff33",
+        "textColor": "#0052FF"
+    },
+    {
+        "id": 3,
+        "category": "Health",
+        "title": "Support Medical Research",
+        "description": "Contribute to groundbreaking medical research projects that aim to find cures and improve healthcare outcomes for millions of people.",
+        "thumbnail": "https://i.ibb.co/qp4BdwV/health.jpg",
+        "price": 100,
+        "bgColor": "#0052ff26",
+        "cateBgColor": "#0052ff33",
+        "textColor": "#0052FF"
+    },
+    {
+        "id": 4,
+        "category": "Education",
+        "title": "Empower Students",
+        "description": "Transform the lives of students by supporting educational initiatives. Your donation will provide scholarships, educational materials, and access to quality education for underprivileged students.",
+        "thumbnail": "https://i.ibb.co/3BPPndf/education.jpg",
+        "price": 75,
+        "bgColor": "#ff444a26",
+        "cateBgColor": "#ff444a33",
+        "textColor": "#FF444A"
+    },
+    {
+        "id": 5,
+        "category": "Education",
+        "title": "Fund School Infrastructure",
+        "description": "Contribute to the improvement of school facilities in underserved communities. Your donation will go towards building classrooms, libraries, and providing essential resources for schools in need.",
+        "thumbnail": "https://i.ibb.co/3BPPndf/education.jpg",
+        "price": 60,
+        "bgColor": "#ff444a26",
+        "cateBgColor": "#ff444a33",
+        "textColor": "#FF444A"
+    },
+    {
+        "id": 6,
+        "category": "Education",
+        "title": "Support Online Learning",
+        "description": "Help bridge the digital divide by donating to provide online learning resources to students without access to the internet. Your support will ensure that every child has the opportunity to continue their education from home, especially during challenging times.",
+        "thumbnail": "https://i.ibb.co/3BPPndf/education.jpg",
+        "price": 40,
+        "bgColor": "#ff444a26",
+        "cateBgColor": "#ff444a33",
+        "textColor": "#FF444A"
+    },
+    {
+        "id": 7,
+        "category": "Clothing",
+        "title": "Donate Warm Clothing",
+        "description": "Extend your hand to the homeless community by donating warm clothing items. Your contribution will provide much-needed warmth and comfort to those living on the streets during harsh weather conditions.",
+        "thumbnail": "https://i.ibb.co/khr6Dxf/clothing.jpg",
+        "price": 20,
+        "bgColor": "#79c23f26",
+        "cateBgColor": "#79c23f33",
+        "textColor": "#79C23F"
+    },
+    {
+        "id": 8,
+        "category": "Clothing",
+        "title": "Support Families",
+        "description": "Help struggling families by donating gently used clothing items. Your generosity will assist families in need, providing them with essential clothing for themselves and their children.",
+        "thumbnail": "https://i.ibb.co/khr6Dxf/clothing.jpg",
+        "price": 30,
+        "bgColor": "#79c23f26",
+        "cateBgColor": "#79c23f33",
+        "textColor": "#79C23F"
+    },
+    {
+        "id": 9,
+        "category": "Clothing",
+        "title": "Clothing Drive for Disaster",
+        "description": "Contribute to disaster relief efforts by donating clothing for those affected by natural disasters. Your donations will help individuals and families rebuild their lives after facing the devastation of hurricanes, floods, and other emergencies.",
+        "thumbnail": "https://i.ibb.co/khr6Dxf/clothing.jpg",
+        "price": 35,
+        "bgColor": "#79c23f26",
+        "cateBgColor": "#79c23f33",
+        "textColor": "#79C23F"
+    },
+    {
+        "id": 10,
+        "category": "Food",
+        "title": "Donate Meals",
+        "description": "Combat hunger in your community by donating meals to those in need. Your contribution will provide nourishing food to individuals and families facing food insecurity.",
+        "thumbnail": "https://i.ibb.co/Ypt6ftq/food.jpg",
+        "price": 15,
+        "bgColor": "#f8714733",
+        "cateBgColor": "#f8714733",
+        "textColor": "#F87147"
+    },
+    {
+        "id": 11,
+        "category": "Food",
+        "title": "Support Food Banks and Pantries",
+        "description": "Help food banks and pantries continue their vital work of distributing food to those in crisis. Your donation will ensure that these organizations have the resources to feed the hungry and provide essential groceries to those in need.",
+        "thumbnail": "https://i.ibb.co/Ypt6ftq/food.jpg",
+        "price": 10,
+        "bgColor": "#f8714733",
+        "cateBgColor": "#f8714733",
+        "textColor": "#F87147"
+    },
+    {
+        "id": 12,
+        "category": "Food",
+        "title": "Provide Emergency Food Relief",
+        "description": "Respond to emergencies by donating to provide food relief to disaster-stricken areas. Your support will ensure that affected communities have access to immediate food assistance during challenging times.",
+        "thumbnail": "https://i.ibb.co/Ypt6ftq/food.jpg",
+        "price": 25,
+        "bgColor": "#f8714733",
+        "cateBgColor": "#f8714733",
+        "textColor": "#F87147"
+    }
+]
