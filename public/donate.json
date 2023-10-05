@@ -1,6 +1,6 @@
 [
     {
-        "id": 10,
+        "id": 1,
         "category": "Food",
         "title": "Donate Meals",
         "description": "Make a meaningful impact in your community by contributing to the fight against hunger. Your generous donation will provide nourishing meals to individuals and families who are struggling with food insecurity. In a world where many go to bed hungry, your support can bring hope and sustenance to those in need.\n\nBy donating meals, you are not just providing food; you are offering comfort, relief, and a chance for a brighter future. Your contribution helps bridge the gap between empty stomachs and full hearts, ensuring that no one has to face the harsh reality of hunger alone. Join us in this mission to create a world where hunger is a thing of the past.",
@@ -11,7 +11,7 @@
         "textColor": "#F87147"
     },
     {
-        "id": 6,
+        "id": 4,
         "category": "Education",
         "title": "Support Online Learning",
         "description": "Empower students with the gift of education by supporting online learning initiatives. Your generous donation will help bridge the digital divide, ensuring that students without access to the internet can continue their education from the safety of their homes. In today's interconnected world, access to online resources is crucial for academic success, and your contribution can make that possible.\n\nEducation is a powerful tool that opens doors to a brighter future. By supporting online learning, you are providing students with the opportunity to acquire knowledge, develop skills, and pursue their dreams. Your impact extends beyond the virtual classroom, as it empowers the next generation to thrive in an increasingly digital world.",
@@ -22,29 +22,7 @@
         "textColor": "#FF444A"
     },
     {
-        "id": 4,
-        "category": "Education",
-        "title": "Empower Students",
-        "description": "Transform the lives of students by supporting educational initiatives. Your donation will provide scholarships, educational materials, and access to quality education for underprivileged students. Education is a powerful catalyst for change, and your contribution can make a significant impact on the lives of young learners.\n\nBy empowering students, you are investing in the future, giving children the tools they need to break the cycle of poverty and reach their full potential. Your support not only opens doors to knowledge but also to a brighter, more promising tomorrow.",
-        "thumbnail": "https://i.ibb.co/3BPPndf/education.jpg",
-        "price": 75,
-        "bgColor": "#ff444a26",
-        "cateBgColor": "#ff444a33",
-        "textColor": "#FF444A"
-    },
-    {
-        "id": 12,
-        "category": "Food",
-        "title": "Provide Emergency Food Relief",
-        "description": "Be a lifeline in times of crisis by donating to provide essential food relief to disaster-stricken areas. Your support ensures that affected communities have access to immediate food assistance during challenging times. Natural disasters can devastate lives, leaving families without access to the basic necessity of food.\n\nYour contribution makes a difference, offering hope and sustenance to those facing the aftermath of disasters like hurricanes, floods, and earthquakes. Together, we can ensure that no one goes hungry during their darkest hours, and that communities can rebuild with the strength that comes from a well-nourished population.",
-        "thumbnail": "https://i.ibb.co/Ypt6ftq/food.jpg",
-        "price": 25,
-        "bgColor": "#f8714733",
-        "cateBgColor": "#f8714733",
-        "textColor": "#F87147"
-    },
-    {
-        "id": 9,
+        "id": 7,
         "category": "Clothing",
         "title": "Clothing Drive for Disaster",
         "description": "Support disaster relief efforts by donating clothing for individuals and families affected by natural disasters. Your donations play a crucial role in helping these communities rebuild their lives after facing the devastation of hurricanes, floods, and other emergencies. When disaster strikes, basic necessities like clothing become scarce, adding to the hardships faced by survivors.\n\nYour generosity provides not only warmth but also dignity and hope to those in need. Together, we can ensure that disaster-affected individuals can begin the journey of recovery with the comfort of clean, appropriate clothing.",
@@ -55,18 +33,29 @@
         "textColor": "#79C23F"
     },
     {
-        "id": 1,
-        "category": "Health",
-        "title": "Donate for Mental Health",
-        "description": "Support mental health initiatives by making a donation today. Your contribution will help raise awareness and provide vital resources for individuals facing mental health challenges. Mental health is a critical aspect of overall well-being, yet it often remains stigmatized and underfunded.\n\nYour donation can make a real difference, offering a lifeline to those who may be struggling in silence. Together, we can promote understanding, destigmatize mental health issues, and ensure that no one has to face these challenges alone.",
-        "thumbnail": "https://i.ibb.co/qp4BdwV/health.jpg",
-        "price": 25,
-        "bgColor": "#0052ff26",
-        "cateBgColor": "#0052ff33",
-        "textColor": "#0052FF"
+        "id": 5,
+        "category": "Education",
+        "title": "Empower Students",
+        "description": "Transform the lives of students by supporting educational initiatives. Your donation will provide scholarships, educational materials, and access to quality education for underprivileged students. Education is a powerful catalyst for change, and your contribution can make a significant impact on the lives of young learners.\n\nBy empowering students, you are investing in the future, giving children the tools they need to break the cycle of poverty and reach their full potential. Your support not only opens doors to knowledge but also to a brighter, more promising tomorrow.",
+        "thumbnail": "https://i.ibb.co/3BPPndf/education.jpg",
+        "price": 75,
+        "bgColor": "#ff444a26",
+        "cateBgColor": "#ff444a33",
+        "textColor": "#FF444A"
     },
     {
-        "id": 7,
+        "id": 2,
+        "category": "Food",
+        "title": "Provide Emergency Food Relief",
+        "description": "Be a lifeline in times of crisis by donating to provide essential food relief to disaster-stricken areas. Your support ensures that affected communities have access to immediate food assistance during challenging times. Natural disasters can devastate lives, leaving families without access to the basic necessity of food.\n\nYour contribution makes a difference, offering hope and sustenance to those facing the aftermath of disasters like hurricanes, floods, and earthquakes. Together, we can ensure that no one goes hungry during their darkest hours, and that communities can rebuild with the strength that comes from a well-nourished population.",
+        "thumbnail": "https://i.ibb.co/Ypt6ftq/food.jpg",
+        "price": 25,
+        "bgColor": "#f8714733",
+        "cateBgColor": "#f8714733",
+        "textColor": "#F87147"
+    },
+    {
+        "id": 8,
         "category": "Clothing",
         "title": "Donate Warm Clothing",
         "description": "Extend your hand to the homeless community by donating warm clothing items. Your contribution will provide much-needed warmth and comfort to those living on the streets during harsh weather conditions. In the bitter cold of winter, a simple act of donating warm clothing can save lives.\n\nYour generosity can help protect vulnerable individuals from the dangers of extreme weather, offering a glimmer of hope and dignity in challenging circumstances. Join us in making a positive impact and ensuring that everyone has access to the warmth they need to survive.",
@@ -77,7 +66,18 @@
         "textColor": "#79C23F"
     },
     {
-        "id": 8,
+        "id": 10,
+        "category": "Health",
+        "title": "Donate for Mental Health",
+        "description": "Support mental health initiatives by making a donation today. Your contribution will help raise awareness and provide vital resources for individuals facing mental health challenges. Mental health is a critical aspect of overall well-being, yet it often remains stigmatized and underfunded.\n\nYour donation can make a real difference, offering a lifeline to those who may be struggling in silence. Together, we can promote understanding, destigmatize mental health issues, and ensure that no one has to face these challenges alone.",
+        "thumbnail": "https://i.ibb.co/qp4BdwV/health.jpg",
+        "price": 25,
+        "bgColor": "#0052ff26",
+        "cateBgColor": "#0052ff33",
+        "textColor": "#0052FF"
+    },
+    {
+        "id": 9,
         "category": "Clothing",
         "title": "Support Families",
         "description": "Help struggling families by donating gently used clothing items. Your generosity will assist families in need, providing them with essential clothing for themselves and their children. Many families face financial hardships that make it difficult to afford basic necessities like clothing.\n\nYour support can make a significant difference, offering comfort and relief to those in crisis. By donating gently used clothing, you are helping families rebuild their lives and providing them with the clothing they need to stay warm and protected.",
@@ -89,17 +89,6 @@
     },
     {
         "id": 11,
-        "category": "Food",
-        "title": "Support Food Banks and Pantries",
-        "description": "Join the fight against hunger by supporting food banks and pantries in their crucial work of distributing food to those in crisis. Your donation ensures that these organizations have the resources they need to feed the hungry and provide essential groceries to those in need. In today's world, where many face food insecurity, your support can make a significant impact.\n\nHunger knows no boundaries, and it affects people from all walks of life. Your contribution helps ensure that families and individuals can put food on their tables, relieving the burden of hunger and allowing them to focus on building a better future.",
-        "thumbnail": "https://i.ibb.co/Ypt6ftq/food.jpg",
-        "price": 10,
-        "bgColor": "#f8714733",
-        "cateBgColor": "#f8714733",
-        "textColor": "#F87147"
-    },
-    {
-        "id": 2,
         "category": "Health",
         "title": "Healthcare for Children",
         "description": "Give the gift of health to children in need by making a donation. Your support will ensure that underserved children have access to essential medical care, vaccinations, and nutritional support. Every child deserves the chance to grow up healthy and thrive.\n\nBy donating to provide healthcare for children, you are making a lasting impact on their lives. Your generosity can help prevent illness, save lives, and give children the opportunity to reach their full potential. Join us in building a healthier future for the next generation.",
@@ -111,28 +100,6 @@
     },
     {
         "id": 3,
-        "category": "Health",
-        "title": "Support Medical Research",
-        "description": "Contribute to groundbreaking medical research projects that aim to find cures and improve healthcare outcomes for millions of people. Medical research plays a pivotal role in advancing our understanding of diseases and developing new treatments.\n\nYour donation supports scientists and researchers in their quest to discover breakthroughs that can save lives and improve the quality of healthcare. By supporting medical research, you are investing in a healthier future for all, where diseases are better understood, treated, and prevented.",
-        "thumbnail": "https://i.ibb.co/qp4BdwV/health.jpg",
-        "price": 100,
-        "bgColor": "#0052ff26",
-        "cateBgColor": "#0052ff33",
-        "textColor": "#0052FF"
-    },
-    {
-        "id": 5,
-        "category": "Education",
-        "title": "Fund School Infrastructure",
-        "description": "Contribute to the improvement of school facilities in underserved communities. Your donation will go towards building classrooms, libraries, and providing essential resources for schools in need. Access to quality education is a fundamental right, yet many children lack the proper infrastructure to learn and thrive.\n\nBy funding school infrastructure, you are creating a positive learning environment for students, equipping them with the tools they need to succeed. Your support strengthens communities and empowers the next generation to reach their full potential.",
-        "thumbnail": "https://i.ibb.co/3BPPndf/education.jpg",
-        "price": 60,
-        "bgColor": "#ff444a26",
-        "cateBgColor": "#ff444a33",
-        "textColor": "#FF444A"
-    },
-    {
-        "id": 11,
         "category": "Food",
         "title": "Support Food Banks and Pantries",
         "description": "Join the fight against hunger by supporting food banks and pantries in their crucial work of distributing food to those in crisis. Your donation ensures that these organizations have the resources they need to feed the hungry and provide essential groceries to those in need. In today's world, where many face food insecurity, your support can make a significant impact.\n\nHunger knows no boundaries, and it affects people from all walks of life. Your contribution helps ensure that families and individuals can put food on their tables, relieving the burden of hunger and allowing them to focus on building a better future.",
@@ -143,26 +110,25 @@
         "textColor": "#F87147"
     },
     {
-        "id": 8,
-        "category": "Clothing",
-        "title": "Support Families",
-        "description": "Help struggling families by donating gently used clothing items. Your generosity will assist families in need, providing them with essential clothing for themselves and their children. Many families face financial hardships that make it difficult to afford basic necessities like clothing.\n\nYour support can make a significant difference, offering comfort and relief to those in crisis. By donating gently used clothing, you are helping families rebuild their lives and providing them with the clothing they need to stay warm and protected.",
-        "thumbnail": "https://i.ibb.co/khr6Dxf/clothing.jpg",
-        "price": 30,
-        "bgColor": "#79c23f26",
-        "cateBgColor": "#79c23f33",
-        "textColor": "#79C23F"
+        "id": 12,
+        "category": "Health",
+        "title": "Support Medical Research",
+        "description": "Contribute to groundbreaking medical research projects that aim to find cures and improve healthcare outcomes for millions of people. Medical research plays a pivotal role in advancing our understanding of diseases and developing new treatments.\n\nYour donation supports scientists and researchers in their quest to discover breakthroughs that can save lives and improve the quality of healthcare. By supporting medical research, you are investing in a healthier future for all, where diseases are better understood, treated, and prevented.",
+        "thumbnail": "https://i.ibb.co/qp4BdwV/health.jpg",
+        "price": 100,
+        "bgColor": "#0052ff26",
+        "cateBgColor": "#0052ff33",
+        "textColor": "#0052FF"
     },
     {
-        "id": 7,
-        "category": "Clothing",
-        "title": "Donate Warm Clothing",
-        "description": "Extend your hand to the homeless community by donating warm clothing items. Your contribution will provide much-needed warmth and comfort to those living on the streets during harsh weather conditions. In the bitter cold of winter, a simple act of donating warm clothing can save lives.\n\nYour generosity can help protect vulnerable individuals from the dangers of extreme weather, offering a glimmer of hope and dignity in challenging circumstances. Join us in making a positive impact and ensuring that everyone has access to the warmth they need to survive.",
-        "thumbnail": "https://i.ibb.co/khr6Dxf/clothing.jpg",
-        "price": 20,
-        "bgColor": "#79c23f26",
-        "cateBgColor": "#79c23f33",
-        "textColor": "#79C23F"
+        "id": 6,
+        "category": "Education",
+        "title": "Fund School Infrastructure",
+        "description": "Contribute to the improvement of school facilities in underserved communities. Your donation will go towards building classrooms, libraries, and providing essential resources for schools in need. Access to quality education is a fundamental right, yet many children lack the proper infrastructure to learn and thrive.\n\nBy funding school infrastructure, you are creating a positive learning environment for students, equipping them with the tools they need to succeed. Your support strengthens communities and empowers the next generation to reach their full potential.",
+        "thumbnail": "https://i.ibb.co/3BPPndf/education.jpg",
+        "price": 60,
+        "bgColor": "#ff444a26",
+        "cateBgColor": "#ff444a33",
+        "textColor": "#FF444A"
     }
 ]
-
