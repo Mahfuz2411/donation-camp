@@ -5,7 +5,7 @@ import Header from './Components/Header'
 function App() {
 
   return (
-    <div className='container m-auto'>
+    <div className='m-auto'>
       <Header></Header>
       <Outlet></Outlet>
     </div>

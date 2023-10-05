@@ -1,3 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body{
+    font-family: 'Inter', sans-serif;
+}
+.navLink{
+    color: #0B0B0B;
+    transition: all 0.3 ease;
+    position: relative;
+    /* background: none; */
+}
+
+
+.navLink.active{
+    color: #FF444A !important;
+    background: none !important;
+    
+}
+
+.navLink:active{
+    color: #0B0B0B !important;
+    background: none !important;
+}
+
+.navLink::before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    left: 0;
+    bottom: 0;
+    background: #FF444A;
+    opacity: 0;
+}
+.navLink.active::before{
+    opacity: 1;
+}
