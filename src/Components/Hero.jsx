@@ -1,19 +1,11 @@
-import PropTypes from "prop-types"; // ES6
-import { Link } from "react-router-dom";
+import PropTypes from "prop-types";
 
-const Cards = ({ donation }) => {
+const Hero = ({ donation }) => {
   return (
-    <>
-      <Link
-        className="card card-compact h-full w-full bg-base-100 shadow-xl overflow-hidden"
-        to={`/donation/${donation.id}`}
-      >
-        <figure className="h-56">
-          <img
-            className="h-full w-full object-cover"
-            src={donation.thumbnail}
-            alt="please wait"
-          />
+    <div>
+      <div className="card lg:card-side bg-base-100 shadow-xl">
+        <figure>
+          <img src={donation.thumbnail} alt="Please wait..." />
         </figure>
         <div
           className="card-body items-start"
@@ -32,13 +24,13 @@ const Cards = ({ donation }) => {
             {donation.title}
           </p>
         </div>
-      </Link>
-    </>
+      </div>
+    </div>
   );
 };
 
-Cards.propTypes = {
+Hero.propTypes = {
   donation: PropTypes.object,
 };
 
-export default Cards;
+export default Hero;
