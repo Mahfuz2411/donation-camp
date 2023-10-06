@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
+import { ToastContainer, toast } from "react-toastify";
 
 const Details = () => {
   // const obj = JSON.parse(localStorage.getItem('myData'));
@@ -26,12 +27,14 @@ const Details = () => {
     for (let i of donated) {
       if (i.id == id) {
         console.log(i.title, donation.title);
+        toast("You already donated here");
         val = false;
         break;
       }
     }
     if (val) {
       donated.push(donation);
+      toast("Succesfully donated!");
     }
     localStorage.setItem("donated", JSON.stringify(donated));
   };
@@ -56,6 +59,7 @@ const Details = () => {
         <h2 className="font-bold pb-6 text-5xl">{donation.title}</h2>
         <p className="text-base font-normal">{donation.description}</p>
       </article>
+      <ToastContainer></ToastContainer>
     </div>
   );
 };
