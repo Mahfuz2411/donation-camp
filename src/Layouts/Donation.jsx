@@ -6,7 +6,7 @@ const Donation = () => {
   const [showAll, setShowAll] = useState(false);
 
   useEffect(() => {
-    let tmpDnt = JSON.parse(localStorage.getItem("donated")) || [];
+    let tmpDnt = JSON.parse(localStorage.getItem("donated") || '[]');
     setDonations(tmpDnt);
   }, []);
 
