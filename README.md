@@ -1,6 +1,3 @@
-# Code: Link
-//***
-
 # Live Link: 
 https://donation-by-mahfuz.netlify.app/
 
